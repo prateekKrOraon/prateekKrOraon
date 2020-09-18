@@ -2,7 +2,7 @@
     <img align="center" alt="GIF" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
     <h3>Hi there, I am Prateek 👋</h3>
     <p>Hi, I am Prateek Kumar Oraon, final year student at National Institute of Technology Sikkim, India, pursuing Computer Science and Engineering. I am a self-taught android application developer.</p>
-    <img src="https://i1.wp.com/slfgchurch.com/wp-content/uploads/2019/08/lets-connect-1.png?ssl=1" alt="connect" width="20%" height="10%">
+    <img src="https://i1.wp.com/slfgchurch.com/wp-content/uploads/2019/08/lets-connect-1.png?ssl=1" alt="connect" width="150" height="60">
     <br>
     <a href="https://linkedin.com/in/prateekkroraon">
         <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white">
@@ -21,18 +21,40 @@
     </a>
     <br>
     <h3>My Technology Stack</h3> 
-    <img height="60" style="margin:5px 10px 5px 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java">
-    <img height="60" style="margin:5px 10px 5px 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="python">
-    <img height="60" style="margin:5px 10px 5px 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python">
-    <img height="60" style="margin:5px 10px 5px 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="python">
-    <img height="60" style="margin:5px 10px 5px 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="kotlin">
-    <img height="60" style="margin:5px 10px 5px 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql">
+    <code>
+        <img height="60" style="margin:5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java">
+    </code>
+    <code>
+        <img height="60" style="margin:5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="python">
+    </code>
+    <code>
+        <img height="60" style="margin:5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python">
+    </code>
+    <code>
+        <img height="60" style="margin:5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="python">
+    </code>
+    <code>
+        <img height="60" style="margin:5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="kotlin">
+    </code>
+    <code>
+        <img height="60" style="margin:5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql">
+    </code>
     <br>
-    <img height="60" style="margin:5px 10px 5px 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="android">
-    <img height="60" style="margin:5px 10px 5px 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="flutter">
-    <img height="60" style="margin:5px 10px 5px 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql">
-    <img height="60" style="margin:5px 10px 5px 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws">
-    <img height="60" style="margin:5px 10px 5px 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git">
+    <code>
+        <img height="60" style="margin:5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="android">
+    </code>
+    <code>
+        <img height="60" style="margin:5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="flutter">
+    </code>
+    <code>
+        <img height="60" style="margin:5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql">
+    </code>
+    <code>
+        <img height="60" style="margin:5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws">
+    </code>
+    <code>
+        <img height="60" style="margin:5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git">
+    </code>
     <br>
     <h3>My GitHub Stats</h3>
     <br>
